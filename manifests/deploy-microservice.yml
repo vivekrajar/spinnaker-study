@@ -64,5 +64,3 @@ spec:
                         backend:
                             serviceName: curious-army-microservice-service
                             servicePort: 30201
-
-
