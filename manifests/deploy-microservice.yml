@@ -62,7 +62,7 @@ spec:
                 paths:
                     -   path: /curious-army(/|$)(.*)
                         backend:
-                            serviceName: mcurious-army-microservice-service
+                            serviceName: curious-army-microservice-service
                             servicePort: 30201
 
 
